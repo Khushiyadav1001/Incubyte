@@ -488,7 +488,7 @@ This project is created for educational purposes as part of a TDD kata assignmen
 
 ## 👤 Author
 
-[Your Name]
+Khushi Yadav
 
 ## 🙏 Acknowledgments
 
@@ -500,4 +500,5 @@ This project is created for educational purposes as part of a TDD kata assignmen
 ---
 
 **Note**: This project was developed as a TDD kata to demonstrate full-stack development skills, test-driven development practices, and modern development workflows including AI tool usage.
+
 
